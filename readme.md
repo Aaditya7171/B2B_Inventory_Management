@@ -13,9 +13,6 @@
 - [Part 3 – Low Stock Alerts API](#-part-3--low-stock-alerts-api)
 - [Assumptions](#-assumptions)
 - [How to Run](#-how-to-run)
-- [Why This Submission Stands Out](#-why-this-submission-stands-out)
-- [Next Steps](#-next-steps)
-
 ---
 
 ## 💡 Overview
