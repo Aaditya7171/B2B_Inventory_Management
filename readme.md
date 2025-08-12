@@ -91,21 +91,23 @@
 
 ## 🚀 How to Run
 
-Clone repo
+### 1️⃣ Clone repo
 git clone https://github.com/Aaditya7171/B2B_Inventory_Management.git
 cd stockflow-assignment
 
-Setup Python env
+### 2️⃣ Setup Python env
 python -m venv venv
-source venv/bin/activate # or venv\Scripts\activate on Windows
+source venv/bin/activate   # macOS/Linux
+venv\Scripts\activate      # Windows
 
-Install dependencies
+### 3️⃣ Install dependencies
 pip install flask
 
-Run Part 1 endpoint
+### 4️⃣ Run Part 1 endpoint
 python part1_corrected_code.py
 
-Run Part 3 endpoints
+### 5️⃣ Run Part 3 endpoints
 python part3_low_stock_api.py
 
-Test endpoints using Postman or cURL as per docstring notes.
+### 6️⃣ Test endpoints
+Use Postman or cURL as per docstring notes.
